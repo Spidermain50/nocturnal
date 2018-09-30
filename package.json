@@ -5,6 +5,10 @@
     "version": "0.0.1",
     "publisher": "JaimeStill",
     "icon": "nocturnal-icon.png",
+    "repository": {
+        "type": "GitHub",
+        "url": "https://github.com/JaimeStill/nocturnal"
+    },
     "keywords": [
         "nocturnal",
         "jaime",
