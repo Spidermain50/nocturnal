@@ -1,0 +1,33 @@
+{
+    "name": "nocturnal",
+    "displayName": "Nocturnal",
+    "description": "A dark theme by Jaime Still",
+    "version": "0.0.1",
+    "publisher": "JaimeStill",
+    "icon": "nocturnal-icon.png",
+    "keywords": [
+        "nocturnal",
+        "jaime",
+        "still"
+    ],
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nocturnal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nocturnal-color-theme.json"
+            },
+            {
+                "label": "Nocturnal Minimal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nocturnal-minimal-color-theme.json"
+            }
+        ]
+    }
+}
