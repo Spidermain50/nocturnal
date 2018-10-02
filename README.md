@@ -2,6 +2,8 @@
 
 A colorful dark theme for VS Code. This is my first theme set, and any feedback is very much welcome!
 
+Install the theme [here](https://marketplace.visualstudio.com/items?itemName=JaimeStill.nocturnal)
+
 There are two themes provided:
 
 **Nocturnal**
